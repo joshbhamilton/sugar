@@ -14,7 +14,7 @@ node[:applications].each do |app_name,data|
   sudo "touch /etc/nginx/servers/#{app_name}.conf && mv /etc/nginx/servers/#{app_name}.conf /etc/nginx/servers/#{app_name}.conf.bak"
   
   # symlink the wp-config.php file created by custom chef recipe
-  #sudo "ln -nfs /data/#{app_name}/shared/config.php /data/#{app_name}/current/wp-config.php"
+  sudo "ln -nfs /data/#{app_name}/shared/config.php /data/#{app_name}/current/wp-config.php"
 
 end
 
