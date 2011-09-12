@@ -1,0 +1,341 @@
+
+2011-08-30 21:56:28...Begin DB Check Process *************
+2011-08-30 21:56:28...Basic form info is valid, continuing Process.
+2011-08-30 21:56:28...testing with mysql
+2011-08-30 21:56:28...Could not make Connection using  host: localhost, usr: root
+2011-08-30 21:56:28...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 21:56:28...Testing priviliged account...
+2011-08-30 21:56:28...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 21:58:13...Begin DB Check Process *************
+2011-08-30 21:58:13...Basic form info is valid, continuing Process.
+2011-08-30 21:58:13...testing with mysql
+2011-08-30 21:58:13...Could not make Connection using  host: localhost, usr: root
+2011-08-30 21:58:13...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 21:58:13...Testing priviliged account...
+2011-08-30 21:58:13...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 21:58:31...Begin DB Check Process *************
+2011-08-30 21:58:31...Basic form info is valid, continuing Process.
+2011-08-30 21:58:31...testing with mysql
+2011-08-30 21:58:31...Could not make Connection using  host: localhost, usr: root
+2011-08-30 21:58:31...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 21:58:31...Testing priviliged account...
+2011-08-30 21:58:31...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 21:58:31...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2011-08-30 21:58:31..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 21:58:31..... The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 21:58:31...End DB Check Process *************
+2011-08-30 22:02:35...Begin DB Check Process *************
+2011-08-30 22:02:35...Basic form info is valid, continuing Process.
+2011-08-30 22:02:35...testing with mysql
+2011-08-30 22:02:35...Could not make Connection using  host: localhost, usr: root
+2011-08-30 22:02:35...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:02:35...Testing priviliged account...
+2011-08-30 22:02:35...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:02:42...Begin DB Check Process *************
+2011-08-30 22:02:42...Basic form info is valid, continuing Process.
+2011-08-30 22:02:42...testing with mysql
+2011-08-30 22:02:42...Could not make Connection using  host: localhost, usr: root
+2011-08-30 22:02:42...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:02:42...Testing priviliged account...
+2011-08-30 22:02:42...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:02:42...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2011-08-30 22:02:42..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:02:42..... The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:02:42...End DB Check Process *************
+2011-08-30 22:06:47...Begin DB Check Process *************
+2011-08-30 22:06:47...Basic form info is valid, continuing Process.
+2011-08-30 22:06:47...testing with mysql
+2011-08-30 22:06:47...Could not make Connection using  host: localhost, usr: root
+2011-08-30 22:06:47...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:06:47...Testing priviliged account...
+2011-08-30 22:06:47...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:06:47...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2011-08-30 22:06:47..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:06:47..... The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:06:47...End DB Check Process *************
+2011-08-30 22:12:38...Begin DB Check Process *************
+2011-08-30 22:12:38...Basic form info is valid, continuing Process.
+2011-08-30 22:12:38...testing with mysql
+2011-08-30 22:12:38...Could not make Connection using  host: localhost, usr: root
+2011-08-30 22:12:38...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:12:38...Testing priviliged account...
+2011-08-30 22:12:38...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:12:38...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2011-08-30 22:12:38..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:12:38..... The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:12:38...End DB Check Process *************
+2011-08-30 22:12:42...Begin DB Check Process *************
+2011-08-30 22:12:42...Basic form info is valid, continuing Process.
+2011-08-30 22:12:42...testing with mysql
+2011-08-30 22:12:42...Could not make Connection using  host: localhost, usr: root
+2011-08-30 22:12:42...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:12:42...Testing priviliged account...
+2011-08-30 22:12:42...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:12:54...Begin DB Check Process *************
+2011-08-30 22:12:54...Basic form info is valid, continuing Process.
+2011-08-30 22:12:54...testing with mysql
+2011-08-30 22:12:54...Could not make Connection using  host: localhost, usr: root
+2011-08-30 22:12:54...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:12:54...Testing priviliged account...
+2011-08-30 22:12:54...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:12:54...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2011-08-30 22:12:54..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:12:54..... The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:12:54...End DB Check Process *************
+2011-08-30 22:13:26...Begin DB Check Process *************
+2011-08-30 22:13:26...Basic form info is valid, continuing Process.
+2011-08-30 22:13:26...testing with mysql
+2011-08-30 22:13:26...Could not make Connection using  host: localhost, usr: root
+2011-08-30 22:13:26...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:13:26...Testing priviliged account...
+2011-08-30 22:13:26...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:13:26...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2011-08-30 22:13:26..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:13:26..... The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:13:26...End DB Check Process *************
+2011-08-30 22:23:31...Begin DB Check Process *************
+2011-08-30 22:23:31...Basic form info is valid, continuing Process.
+2011-08-30 22:23:31...testing with mysql
+2011-08-30 22:23:31...Connection made using  host: 127.0.0.1, usr: root
+2011-08-30 22:23:31...Testing priviliged account...
+2011-08-30 22:23:31...Connection made for Privileged admin account using  host: 127.0.0.1, usr: root
+2011-08-30 22:23:31...DB not selected, will create sugarcrm
+2011-08-30 22:23:31...Passed DB Version check, version is 5.1.56
+2011-08-30 22:23:31...SUCCESS:: no errors detected!
+2011-08-30 22:23:31...End DB Check Process *************
+2011-08-30 22:23:51...Begin DB Check Process *************
+2011-08-30 22:23:51...Basic form info is valid, continuing Process.
+2011-08-30 22:23:51...testing with mysql
+2011-08-30 22:23:51...Could not make Connection using  host: localhost, usr: root
+2011-08-30 22:23:51...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:23:51...Testing priviliged account...
+2011-08-30 22:23:51...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:23:59...Begin DB Check Process *************
+2011-08-30 22:23:59...ERROR::  The passwords provided for the Sugar database user do not match. Please re-enter the same passwords in the password fields.
+2011-08-30 22:23:59...Basic form info is INVALID, exit Process.
+2011-08-30 22:23:59...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2011-08-30 22:23:59..... The passwords provided for the Sugar database user do not match. Please re-enter the same passwords in the password fields.
+2011-08-30 22:24:08...Begin DB Check Process *************
+2011-08-30 22:24:08...Basic form info is valid, continuing Process.
+2011-08-30 22:24:08...testing with mysql
+2011-08-30 22:24:08...Could not make Connection using  host: localhost, usr: root
+2011-08-30 22:24:08...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:24:08...Testing priviliged account...
+2011-08-30 22:24:08...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:24:08...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2011-08-30 22:24:08..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:24:08..... The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:24:08...End DB Check Process *************
+2011-08-30 22:37:30...Begin DB Check Process *************
+2011-08-30 22:37:30...Basic form info is valid, continuing Process.
+2011-08-30 22:37:30...testing with mysql
+2011-08-30 22:37:30...Could not make Connection using  host: localhost, usr: root
+2011-08-30 22:37:30...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:37:30...Testing priviliged account...
+2011-08-30 22:37:30...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:37:39...Begin DB Check Process *************
+2011-08-30 22:37:39...Basic form info is valid, continuing Process.
+2011-08-30 22:37:39...testing with mysql
+2011-08-30 22:37:39...Could not make Connection using  host: localhost, usr: root
+2011-08-30 22:37:39...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:37:39...Testing priviliged account...
+2011-08-30 22:37:39...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:37:39...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2011-08-30 22:37:39..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:37:39..... The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 22:37:39...End DB Check Process *************
+2011-08-30 23:15:16...Begin DB Check Process *************
+2011-08-30 23:15:16...Basic form info is valid, continuing Process.
+2011-08-30 23:15:16...testing with mysql
+2011-08-30 23:15:16...Could not make Connection using  host: localhost, usr: root
+2011-08-30 23:15:16...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 23:15:16...Testing priviliged account...
+2011-08-30 23:15:16...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 23:15:27...Begin DB Check Process *************
+2011-08-30 23:15:27...ERROR::  The passwords provided for the Sugar database user do not match. Please re-enter the same passwords in the password fields.
+2011-08-30 23:15:27...Basic form info is INVALID, exit Process.
+2011-08-30 23:15:27...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2011-08-30 23:15:27..... The passwords provided for the Sugar database user do not match. Please re-enter the same passwords in the password fields.
+2011-08-30 23:15:33...Begin DB Check Process *************
+2011-08-30 23:15:33...Basic form info is valid, continuing Process.
+2011-08-30 23:15:33...testing with mysql
+2011-08-30 23:15:33...Could not make Connection using  host: localhost, usr: root
+2011-08-30 23:15:33...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 23:15:33...Testing priviliged account...
+2011-08-30 23:15:33...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 23:15:33...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2011-08-30 23:15:33..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 23:15:33..... The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 2002: Can't connect to local MySQL server through socket '/Applications/sugarcrm-6.2.1/mysql/tmp/mysql.sock' (2)).
+2011-08-30 23:15:33...End DB Check Process *************
+2011-08-30 23:17:34...Begin DB Check Process *************
+2011-08-30 23:17:34...Basic form info is valid, continuing Process.
+2011-08-30 23:17:34...testing with mysql
+2011-08-30 23:17:34...Connection made using  host: localhost, usr: root
+2011-08-30 23:17:34...Testing priviliged account...
+2011-08-30 23:17:34...Connection made for Privileged admin account using  host: localhost, usr: root
+2011-08-30 23:17:34...DB not selected, will create sugarcrm
+2011-08-30 23:17:34...Passed DB Version check, version is 5.1.56
+2011-08-30 23:17:34...SUCCESS:: no errors detected!
+2011-08-30 23:17:34...End DB Check Process *************
+2011-08-30 23:17:52...Begin DB Check Process *************
+2011-08-30 23:17:52...Basic form info is valid, continuing Process.
+2011-08-30 23:17:52...testing with mysql
+2011-08-30 23:17:52...Connection made using  host: localhost, usr: root
+2011-08-30 23:17:52...Testing priviliged account...
+2011-08-30 23:17:52...Connection made for Privileged admin account using  host: localhost, usr: root
+2011-08-30 23:17:52...DB not selected, will create sugarcrm
+2011-08-30 23:17:52...Passed DB Version check, version is 5.1.56
+2011-08-30 23:17:53...calling handleSugarConfig()
+2011-08-30 23:17:53...calling handleLog4Php()
+2011-08-30 23:17:53...calling handleHtaccess()
+2011-08-30 23:17:53...calling handleDbCreateDatabase()
+2011-08-30 23:17:54...looping through all the Beans and create their tables
+2011-08-30 23:17:54...processing table acl_actions
+2011-08-30 23:17:54...creating table acl_actions
+2011-08-30 23:17:54...creating Relationship Meta for ACLAction
+2011-08-30 23:17:54...processing table acl_roles
+2011-08-30 23:17:54...creating table acl_roles
+2011-08-30 23:17:54...creating Relationship Meta for ACLRole
+2011-08-30 23:17:54...processing table relationships
+2011-08-30 23:17:54...creating table relationships
+2011-08-30 23:17:54...creating Relationship Meta for Relationship
+2011-08-30 23:17:55...processing table leads
+2011-08-30 23:17:55...creating table leads
+2011-08-30 23:17:55...creating Relationship Meta for Lead
+2011-08-30 23:17:55...processing table cases
+2011-08-30 23:17:55...creating table cases
+2011-08-30 23:17:55...creating Relationship Meta for Case
+2011-08-30 23:17:55...processing table bugs
+2011-08-30 23:17:56...creating table bugs
+2011-08-30 23:17:56...creating Relationship Meta for Bug
+2011-08-30 23:17:56...processing table users
+2011-08-30 23:17:56...creating table users
+2011-08-30 23:17:56...creating Relationship Meta for User
+2011-08-30 23:17:56...processing table campaign_log
+2011-08-30 23:17:56...creating table campaign_log
+2011-08-30 23:17:56...creating Relationship Meta for CampaignLog
+2011-08-30 23:17:56...processing table project
+2011-08-30 23:17:56...creating table project
+2011-08-30 23:17:56...creating Relationship Meta for Project
+2011-08-30 23:17:56...processing table project_task
+2011-08-30 23:17:56...creating table project_task
+2011-08-30 23:17:56...creating Relationship Meta for ProjectTask
+2011-08-30 23:17:57...processing table campaigns
+2011-08-30 23:17:57...creating table campaigns
+2011-08-30 23:17:57...creating Relationship Meta for Campaign
+2011-08-30 23:17:57...processing table prospect_lists
+2011-08-30 23:17:57...creating table prospect_lists
+2011-08-30 23:17:57...creating Relationship Meta for ProspectList
+2011-08-30 23:17:57...processing table prospects
+2011-08-30 23:17:57...creating table prospects
+2011-08-30 23:17:57...creating Relationship Meta for Prospect
+2011-08-30 23:17:57...processing table email_marketing
+2011-08-30 23:17:57...creating table email_marketing
+2011-08-30 23:17:57...creating Relationship Meta for EmailMarketing
+2011-08-30 23:17:57...processing table campaign_trkrs
+2011-08-30 23:17:58...creating table campaign_trkrs
+2011-08-30 23:17:58...creating Relationship Meta for CampaignTracker
+2011-08-30 23:17:58...processing table releases
+2011-08-30 23:17:58...creating table releases
+2011-08-30 23:17:58...creating Relationship Meta for Release
+2011-08-30 23:17:58...processing table emailman
+2011-08-30 23:17:58...creating table emailman
+2011-08-30 23:17:58...creating Relationship Meta for EmailMan
+2011-08-30 23:17:58...processing table schedulers
+2011-08-30 23:17:58...creating table schedulers
+2011-08-30 23:17:58...creating Relationship Meta for schedulers
+2011-08-30 23:17:58...processing table schedulers_times
+2011-08-30 23:17:58...creating table schedulers_times
+2011-08-30 23:17:58...creating Relationship Meta for SchedulersJob
+2011-08-30 23:17:58...processing table contacts
+2011-08-30 23:17:58...creating table contacts
+2011-08-30 23:17:58...creating Relationship Meta for Contact
+2011-08-30 23:17:58...processing table accounts
+2011-08-30 23:17:59...creating table accounts
+2011-08-30 23:17:59...creating Relationship Meta for Account
+2011-08-30 23:17:59...processing table opportunities
+2011-08-30 23:17:59...creating table opportunities
+2011-08-30 23:17:59...creating Relationship Meta for Opportunity
+2011-08-30 23:17:59...processing table email_templates
+2011-08-30 23:17:59...creating table email_templates
+2011-08-30 23:17:59...creating Relationship Meta for EmailTemplate
+2011-08-30 23:17:59...processing table notes
+2011-08-30 23:17:59...creating table notes
+2011-08-30 23:17:59...creating Relationship Meta for Note
+2011-08-30 23:17:59...processing table calls
+2011-08-30 23:18:00...creating table calls
+2011-08-30 23:18:00...creating Relationship Meta for Call
+2011-08-30 23:18:00...processing table emails
+2011-08-30 23:18:00...creating table emails
+2011-08-30 23:18:00...creating Relationship Meta for Email
+2011-08-30 23:18:00...processing table meetings
+2011-08-30 23:18:00...creating table meetings
+2011-08-30 23:18:00...creating Relationship Meta for Meeting
+2011-08-30 23:18:00...processing table tasks
+2011-08-30 23:18:00...creating table tasks
+2011-08-30 23:18:00...creating Relationship Meta for Task
+2011-08-30 23:18:00...processing table users
+2011-08-30 23:18:00...processing table users
+2011-08-30 23:18:00...processing table currencies
+2011-08-30 23:18:00...creating table currencies
+2011-08-30 23:18:00...creating Relationship Meta for Currency
+2011-08-30 23:18:00...processing table tracker
+2011-08-30 23:18:00...creating table tracker
+2011-08-30 23:18:00...creating Relationship Meta for Tracker
+2011-08-30 23:18:00...processing table import_maps
+2011-08-30 23:18:01...creating table import_maps
+2011-08-30 23:18:01...creating Relationship Meta for ImportMap
+2011-08-30 23:18:01...processing table users_last_import
+2011-08-30 23:18:01...creating table users_last_import
+2011-08-30 23:18:01...creating Relationship Meta for UsersLastImport
+2011-08-30 23:18:01...processing table config
+2011-08-30 23:18:01...creating table config
+2011-08-30 23:18:01...creating Relationship Meta for Administration
+2011-08-30 23:18:01...processing table upgrade_history
+2011-08-30 23:18:01...creating table upgrade_history
+2011-08-30 23:18:01...creating Relationship Meta for UpgradeHistory
+2011-08-30 23:18:01...processing table vcals
+2011-08-30 23:18:01...creating table vcals
+2011-08-30 23:18:01...creating Relationship Meta for vCal
+2011-08-30 23:18:01...processing table versions
+2011-08-30 23:18:01...creating table versions
+2011-08-30 23:18:01...creating Relationship Meta for Version
+2011-08-30 23:18:01...processing table roles
+2011-08-30 23:18:02...creating table roles
+2011-08-30 23:18:02...creating Relationship Meta for Role
+2011-08-30 23:18:02...processing table documents
+2011-08-30 23:18:02...creating table documents
+2011-08-30 23:18:02...creating Relationship Meta for Document
+2011-08-30 23:18:02...processing table document_revisions
+2011-08-30 23:18:02...creating table document_revisions
+2011-08-30 23:18:02...creating Relationship Meta for DocumentRevision
+2011-08-30 23:18:02...processing table fields_meta_data
+2011-08-30 23:18:02...creating table fields_meta_data
+2011-08-30 23:18:02...creating Relationship Meta for FieldsMetaData
+2011-08-30 23:18:03...processing table inbound_email
+2011-08-30 23:18:03...creating table inbound_email
+2011-08-30 23:18:03...creating Relationship Meta for InboundEmail
+2011-08-30 23:18:03...processing table saved_search
+2011-08-30 23:18:03...creating table saved_search
+2011-08-30 23:18:03...creating Relationship Meta for SavedSearch
+2011-08-30 23:18:03...processing table user_preferences
+2011-08-30 23:18:03...creating table user_preferences
+2011-08-30 23:18:03...creating Relationship Meta for UserPreference
+2011-08-30 23:18:03...processing table 
+2011-08-30 23:18:03...processing table email_addresses
+2011-08-30 23:18:03...creating table email_addresses
+2011-08-30 23:18:03...creating Relationship Meta for EmailAddress
+2011-08-30 23:18:03...processing table sugarfeed
+2011-08-30 23:18:03...creating table sugarfeed
+2011-08-30 23:18:03...creating Relationship Meta for SugarFeed
+2011-08-30 23:18:03...processing table eapm
+2011-08-30 23:18:04...creating table eapm
+2011-08-30 23:18:04...creating Relationship Meta for EAPM
+2011-08-30 23:18:08...Begin creating Defaults
+2011-08-30 23:18:08...insert defaults into config table
+2011-08-30 23:18:08...Creating default users
+2011-08-30 23:18:08...Creating default scheduler jobs
+2011-08-30 23:18:09...Enable SugarFeeds
+2011-08-30 23:18:09...Enable InsideView Connector
+2011-08-30 23:18:09...populating the db with seed data
+2011-08-30 23:18:21...Installation has completed *********
